@@ -27,7 +27,7 @@ A Windows GUI application for managing a Palworld Dedicated Server.
 
 ## Installation
 
-Install the required Python packages:
+Install the required Python packages: (Not required, if you download .exe fail)
 
 ```bash
 pip install -r requirements.txt

@@ -6,8 +6,7 @@ A Windows GUI application for managing a Palworld Dedicated Server.
 
 - Start Palworld Dedicated Server
 - Stop Palworld Dedicated Server
-- Restart server
-- Detect running Palworld server
+- Detect already installed server
 - SteamCMD server updates
 - Steam Workshop mod management
 - Download Workshop mods
@@ -16,7 +15,6 @@ A Windows GUI application for managing a Palworld Dedicated Server.
 - Server port detection
 - SteamCMD authentication
 - Persistent configuration
-- Custom application icon
 
 ## Requirements
 

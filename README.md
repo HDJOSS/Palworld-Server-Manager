@@ -23,7 +23,12 @@ A Windows GUI application for managing a Palworld Dedicated Server.
 - SteamCMD
 - Palworld Dedicated Server
 
+## Note
+
+Server manager generates config file in to the "AppData\Roaming\PalworldServerConfig\server_config.json" (Server Manager needs this file so that it doesn't forget the settings you configure within it.)
+
 ## Installation
+
 
 Install the required Python packages: (Not required, if you download .exe fail)
 
